@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami_console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/MagicZoom.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/ShopShow.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/baby_ban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/bban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/f_ban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/fban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/hban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/iban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/iepng.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/jquery-1.11.1.min_044d0927.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/jquery-1.4.2.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/jquery-1.8.2.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/jquery.bxslider_e88acd1b.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/jquery.soChange.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/lrscroll.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/lrscroll_1.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/mban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/menu.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/milk_ban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/n_nav.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/num.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/p_tab.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/paper_ban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/s_ban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/select.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/shade.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/tban.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_console/src/main/webapp/js/zh_CN.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hami_core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami_core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami_core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami_file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami_protal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami_protal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami_protal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+  </component>
+</project>
